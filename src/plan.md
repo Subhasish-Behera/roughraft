@@ -1,0 +1,13 @@
+- write the defination of Node/Server
+- write a enum of diffrent states a Node can be in through Enum
+    - leader
+    - candidate
+    - follower
+
+- Enum for diffrent type of messages
+    - votereq
+    - voteres
+    - appendreq
+    - appendres
+- logEntry def
+    - 
